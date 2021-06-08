@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/shamb/Desktop/project file/ALU_32BIT/FA.xst" -ofn "C:/Users/shamb/Desktop/project file/ALU_32BIT/FA.syr" 
+xst -intstyle ise -ifn "C:/Users/shamb/Desktop/project file/ALU_32BIT/FA.xst" -ofn "C:/Users/shamb/Desktop/project file/ALU_32BIT/FA.syr" 

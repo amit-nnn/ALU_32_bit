@@ -1,0 +1,28 @@
+Running: C:\Xilinx\14.5\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o M:/desktop/project file/ALU_32BIT/ALU_32BIT_isim_beh.exe -prj M:/desktop/project file/ALU_32BIT/ALU_32BIT_beh.prj work.ALU_32BIT work.glbl 
+ISim P.58f (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "M:/desktop/project file/ALU_32BIT/HA.v" into library work
+Analyzing Verilog file "M:/desktop/project file/ALU_32BIT/OR.v" into library work
+Analyzing Verilog file "M:/desktop/project file/ALU_32BIT/FA.v" into library work
+Analyzing Verilog file "M:/desktop/project file/ALU_32BIT/AND.v" into library work
+Analyzing Verilog file "M:/desktop/project file/ALU_32BIT/ALU_1BIT.v" into library work
+Analyzing Verilog file "M:/desktop/project file/ALU_32BIT/ALU_4BIT.v" into library work
+Analyzing Verilog file "M:/desktop/project file/ALU_32BIT/ALU_32BIT.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.5/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module HA
+Compiling module FA
+Compiling module AND
+Compiling module OR
+Compiling module ALU_1BIT
+Compiling module ALU_4BIT
+Compiling module ALU_32BIT
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 8 Verilog Units
+Built simulation executable M:/desktop/project file/ALU_32BIT/ALU_32BIT_isim_beh.exe
+Fuse Memory Usage: 28580 KB
+Fuse CPU Usage: 405 ms

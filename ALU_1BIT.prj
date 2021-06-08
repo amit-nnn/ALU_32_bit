@@ -1,0 +1,5 @@
+verilog work "HA.v"
+verilog work "OR.v"
+verilog work "FA.v"
+verilog work "AND.v"
+verilog work "ALU_1BIT.v"
